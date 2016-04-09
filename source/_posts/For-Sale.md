@@ -68,10 +68,40 @@ Current items for sale on the Diehnelt farm.
 * Model 50LA 6.5 ft. x 14 ft.
 * Purchased 2009 $2,093.93
 
+{% raw %}
+<div class="row article-gallery">
+  <div class="col-xs-4 col-md-4">
+    <a class="image-link" href="/assets/images/p2474.jpg" rel="gallery_cub">
+      <img class="thumbnail" src="/assets/images/p2474.jpg" itemprop="image">
+    </a>
+  </div>
+  <div class="col-xs-4 col-md-4">
+    <a class="image-link" href="/assets/images/p2475.jpg" rel="gallery_cub">
+      <img class="thumbnail" src="/assets/images/p2475.jpg" itemprop="image">
+    </a>
+  </div>
+</div>
+{% endraw %}
+
 ### Small Utility Trailer - $300
 
 * Model 5 ft. x 10 ft. Tilt Bed
 * Purchased Approximately 1994 $900
+
+{% raw %}
+<div class="row article-gallery">
+  <div class="col-xs-4 col-md-4">
+    <a class="image-link" href="/assets/images/p2476.jpg" rel="gallery_cub">
+      <img class="thumbnail" src="/assets/images/p2476.jpg" itemprop="image">
+    </a>
+  </div>
+  <div class="col-xs-4 col-md-4">
+    <a class="image-link" href="/assets/images/p2477.jpg" rel="gallery_cub">
+      <img class="thumbnail" src="/assets/images/p2477.jpg" itemprop="image">
+    </a>
+  </div>
+</div>
+{% endraw %}
 
 ### DeWalt Drill - 2 @ $25 each
 
